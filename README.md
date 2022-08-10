@@ -1,5 +1,5 @@
 # UrlEmbedder Extension
-An extension to embed URL into any view or recycler view.
+An extension to embed URL into any view or recycler view, which allows you show preview data of your URL.
 
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/embed-cover.png"/>
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/aix.png"/>
