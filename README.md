@@ -4,6 +4,23 @@ An extension to embed URL into any view or recycler view, which allows you show 
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/embed-cover.png"/>
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/aix.png"/>
 
+## Demo Blocks
+I'm creating recycler view with list of website url.
+
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/demo-blocks.png"/>
+
+## Demo Views
+
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Recycler-demo-1.jpg" width="50%" height="720px"/>
+
+<br>
+
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Recycler-view-2.jpg" width="50%" height="720px"/>
+
+## Single View Demo
+
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Single-embed-view.jpg"/>
+
 ## GetInfo
 Get information about any website using website url.
 
