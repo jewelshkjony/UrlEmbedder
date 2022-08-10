@@ -35,7 +35,7 @@ This event will be triggered if any url cannot be embeded.
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/failed.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/KidozAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.kidozads.aix</a>(1.17 MB) \
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.urlembedder.aix</a> (563 KB) \
 <b>Version:</b> 2.0.3\
 <b>Price:</b> 12 USD\
 <b>Last amendment:</b> 10 August 2022\
