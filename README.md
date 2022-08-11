@@ -11,11 +11,7 @@ I'm creating recycler view with list of website url.
 
 ## Demo Views
 
-<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Recycler-demo-1.jpg" width="50%" height="720px"/>
-
-<br>
-
-<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Recycler-view-2.jpg" width="50%" height="720px"/>
+https://user-images.githubusercontent.com/75406851/184149523-6aaefd92-83ad-4963-9b66-e156f8806930.mp4
 
 ## Single View Demo
 
