@@ -15,6 +15,8 @@ https://user-images.githubusercontent.com/75406851/184149523-6aaefd92-83ad-4963-
 
 ## Single View Demo
 
+<img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/single-demo-blocks.png"/>
+
 <img src="https://github.com/jewelshkjony/UrlEmbedder/raw/main/images/Single-embed-view.jpg"/>
 
 ## GetInfo
